@@ -1,0 +1,18 @@
+#notification-area{
+	border-radius: 10px;
+	padding: 5px 10px 5px 10px;
+	width: 30%;
+	margin-left: 65%;
+	display: none;
+	position: fixed;
+}.red{
+	background-image: linear-gradient(to top, #ce0000, #d10000,#e20404,#e80202,#f20404);
+}.yellow{
+	background-image: linear-gradient(to top, #a88100, #bc9000,#cc9d04,#e2ae04,#edb602);
+}.green{
+background-image: linear-gradient(to top, #19a800, #1fbc03,#22d602,#22db02,#24e802);
+}.blue{
+	background-image: linear-gradient(to top, #0029af, #0731bc,#012fc6,#0032d8,#0035e5);
+}.purple{
+	background-image: linear-gradient(to top, #8300a0, #9a01bc,#9f05c1,#b604dd,#b800e0);
+}
